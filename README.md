@@ -1,0 +1,2 @@
+# otakuGo
+go learning project
